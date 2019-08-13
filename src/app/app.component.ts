@@ -6,5 +6,7 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
-  title = 'musa-app';
+  title = 'Bienvenido a angular';
+  texto: string = 'Musa project';
+  texto2: string = "BY: Jorge";
 }
